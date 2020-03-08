@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>如何使用油猴扩展？ | 相逢</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://yybxrsp.github.io//favicon.ico?v=1583638075858">
+<link rel="stylesheet" href="https://yybxrsp.github.io//styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="对于一款浏览器而言，不装扩展，就好比手机不安装应用一般。（以Chrome举例）
+在线安装
+因为油猴是附属于Google上的，所以首先必须解决 Google的上网问题；目前我找到了两种解决方式：
+
+1、Kx上网
+2、谷歌访问助手
+
+其实我个人..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://yybxrsp.github.io/">
+        <img src="https://yybxrsp.github.io//images/avatar.png?v=1583638075858" class="site-logo">
+        <h1 class="site-title">相逢</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      温故而知新
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://yybxrsp.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">如何使用油猴扩展？</h2>
+            <div class="post-date">2020-03-08</div>
+            
+            <div class="post-content" v-pre>
+              <p>对于一款浏览器而言，不装扩展，就好比手机不安装应用一般。（以Chrome举例）</p>
+<h2 id="在线安装">在线安装</h2>
+<p>因为油猴是附属于Google上的，所以首先必须解决 Google的上网问题；目前我找到了两种解决方式：</p>
+<blockquote>
+<p>1、Kx上网</p>
+<p>2、<a href="https://mp.weixin.qq.com/s/SA9EWRG4ylM39w6keG272w">谷歌访问助手</a></p>
+</blockquote>
+<p>其实我个人偏向于第二种，只需简单的设置一下就能使用，支持谷歌搜索、GMAIL和应用商店访问，一劳永逸。能访问商店，那自然可以直接在商店搜索<a href="https://chrome.google.com/webstore/search/Tampermonkey?hl=zh-CN">tampermonkey</a>，</p>
+<figure data-type="image" tabindex="1"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C1.png" alt="" loading="lazy"></figure>
+<h2 id="离线安装">离线安装</h2>
+<p>如果嫌麻烦，不想安装谷歌访问助手的话，我也给大家提供有<a href="https://www.lanzous.com/i9lo6lg">离线安装包</a>，</p>
+<p><strong>离线安装方法：</strong></p>
+<p>下载好安装包后，在浏览器中选择【更多工具】——【扩展程序】或者<a href="chrome://extensions/">直接点击</a>，进入扩展程序界面，将【开发者模式】打开，然后将CRX文件拖动到扩展程序界面进行安装。</p>
+<figure data-type="image" tabindex="2"><img src="D:%5C%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90%5C%E8%A7%86%E5%B1%8F%E5%BD%95%E5%88%B6%5C%E6%B2%B9%E7%8C%B4.gif" alt="" loading="lazy"></figure>
+<p>至此油猴即安装完成。</p>
+<h3 id="那么如何使用呢">那么如何使用呢？</h3>
+<p>点击【获取新脚本】</p>
+<figure data-type="image" tabindex="3"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C%E6%B2%B9%E7%8C%B42.png" alt="" loading="lazy"></figure>
+<p>进入这个界面，选择一个插件提供平台，我比较倾向于这一个：<a href="https://greasyfork.org/zh-CN">Greasy Fork</a>在里面搜索你想要的插件，比如刷网课，VIP影视等等。</p>
+<figure data-type="image" tabindex="4"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C%E6%B2%B9%E7%8C%B44.png" alt="" loading="lazy"></figure>
+<p>希望你能看懂  我的这篇说明文档。看不懂，也别来问我了，真的是保姆教程了。</p>
+
+            </div>
+            
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

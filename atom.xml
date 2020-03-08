@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yybxrsp.github.io/</id>
     <title>相逢</title>
-    <updated>2020-03-08T02:19:10.584Z</updated>
+    <updated>2020-03-08T03:28:04.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yybxrsp.github.io/"/>
     <link rel="self" href="https://yybxrsp.github.io/atom.xml"/>
@@ -11,97 +11,32 @@
     <icon>https://yybxrsp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 相逢</rights>
     <entry>
-        <title type="html"><![CDATA[这样]]></title>
-        <id>https://yybxrsp.github.io/post/zhe-yang/</id>
-        <link href="https://yybxrsp.github.io/post/zhe-yang/">
+        <title type="html"><![CDATA[如何使用油猴扩展？]]></title>
+        <id>https://yybxrsp.github.io/post/ru-he-shi-yong-you-hou-kuo-zhan/</id>
+        <link href="https://yybxrsp.github.io/post/ru-he-shi-yong-you-hou-kuo-zhan/">
         </link>
-        <updated>2020-03-08T02:17:12.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="关于油猴插件的使用">关于油猴插件的使用</h1>
-<p><a href="https://www.bilibili.com/account/history">真的是这样</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于翻译那些事]]></title>
-        <id>https://yybxrsp.github.io/post/hello-gridea/</id>
-        <link href="https://yybxrsp.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>本文将我认为比较好用的翻译方法进行了排序，带有主观因素。</p>
-<p>但正所谓：横看成岭侧成峰,远近高低各不同。</p>
-<p>所以若有失言，切莫口诛笔伐。</p>
-<p>若有其他你认为更好的，可同我交流交流。</p>
-<p>小子感激不尽！！！</p>
-<p>至于人工翻译的技巧，网上也是一搜一大堆，且我只做软件和平台方面的分享，技巧就就不分享了，说白了有点偷懒的意思。</p>
-<p>导读</p>
-<p>1、发文原因：应群员要求。</p>
-<p>2、目的</p>
-<p>使一切能在此篇文中感受到帮助之人，能更好的解决英文阅读障碍、增强学习能力、帮助论文答辩者完成毕业设计等。</p>
-<p>3、面临问题</p>
-<p>市面翻译在线平台和软件杂乱且众多，所以有所遗漏还请见谅。</p>
-<p>1、沙拉查词</p>
-<p>Happy Halloween</p>
-<p>简介：这是一款浏览器插件。</p>
-<p>包含划词翻译、网页翻译、PDF查阅、生词管理等</p>
-<p>总结来说，这就是一款管家式的插件，且UI设计好</p>
-<p>安装</p>
-<p>1、于各大浏览器应用商店添加扩展，若是谷歌浏览器，使用请参看文章【如何使用谷歌浏览器】</p>
-<p>2、【储物站】——【插件】目录下查找</p>
-<p>3、微信公众号回复：20201</p>
-<p>使用</p>
-<p>基础使用：</p>
-<p>用鼠标将目标词句选中，便会在目标右上方蹦出一个窗口。</p>
-<p>弹出的翻译框中，点击如图所示，可进入设置界面</p>
-<p>进入设置界面后，可将“扇贝单词”开启，</p>
-<p>在使用过程中，点击❤，可添加生词至生词本中。</p>
-<p>因为我们已将生词导入扇贝单词中，那么我们在手机上也能时刻复习单词了。</p>
-<p>PDF阅读</p>
-<p>在网页上的任意位置单击【右键】，选择【沙拉查词】，再选择【在pdf阅读器中打开】进入以下界面，导入你想阅读的文档。</p>
-<p>网页翻译</p>
-<p>网页上单击鼠标右键，之后找到“沙拉查词”。选择对应的翻译引擎即可翻译。</p>
-<p>使用技巧：</p>
-<p>打开浏览器后连按3下“ctrl”（Windows）或“command”（Mac），便可打开翻译框。</p>
-<p>我们可以自行输入生词进行查阅，这个其实更像是一个小技巧。</p>
-<p>这个插件我觉得很有价值，诸君可一试。</p>
-<p>2、其他</p>
-<p>01</p>
-<p>谷歌翻译</p>
-<p>直接进入网页翻译：https://translate.google.cn/</p>
-<p>翻译后为网页格式，无法保留原格式。</p>
-<p>02</p>
-<p>pdfTranslator</p>
-<p>下载：</p>
-<p>1、公众号回复——20202</p>
-<p>2、【储物站】——【办公工具】——【文字处理】</p>
-<p>点击运行程序，进入这个界面</p>
-<p>点击选择要阅读的文档</p>
-<p>鼠标选择要翻译的文字即可，无需其他操作，译文随即显示。</p>
-<p>这个界面是不是同沙拉查词的PDF阅读类似啊，没错可以说是一模一祥的，不过这个译文是自动显示，无需那一下的点击操作。</p>
-<p>03</p>
-<p>word文档</p>
-<p>若文档为PDF格式，则在打开的时候选择【word】</p>
-<p>然后请耐心等待，你的耐心等待是值得的，因为你的PDF将转换为word格式，并且是可编辑的。</p>
-<p>当转换完成后，点击【审视】—【翻译】。</p>
-<p>即可联网上传云端翻译。</p>
-<p>不过还是不能保留格式，同谷歌翻译后的格式一样。</p>
-<p>04</p>
-<p>彩云小译</p>
-<p>地址：https://fanyi.caiyunapp.com/#/</p>
-<p>这个平台是极为不错的，文字翻译我没做测试，不过视频翻译响应很快，而且翻译的质量在我测试的其他视频翻译平台中算好的。</p>
-<p>若有视频翻译需求的朋友，现阶段我推荐这个，保不准以后有更好的。</p>
-<p>05</p>
-<p>翻译狗</p>
-<p>地址：http://www.fanyigou.net/tslg/share/96YF4F4N.htm</p>
-<p>至今我只在这个平台上能将全部的PDF格式的文档进行翻译，而且格式、图片皆保留原样，翻译质量没得说。</p>
-<p>但是他是收费的，很贵很贵的那种。</p>
-<p>他再便宜一点，我就用它了，不想折腾了。</p>
-<p>总结</p>
-<p>今天就先分享这么多，实在是因为市面上的翻译平台太多了。</p>
-<p>如果我的推荐帮助到了你，那么请于储物站中留言，告知于我，我将倍感荣幸，因为我感受到的是我的分享是有价值的，而不是文字和图片堆砌起来的废话。</p>
-<p>感谢您的留言！！！</p>
-<p>更多内容请访问</p>
-<p>储物站地址：http://xfyzyyb.cccpan.com/</p>
-<p>密码：yyb123456.</p>
-<p>若密码失效，请于公众号回复：解密</p>
+        <updated>2020-03-08T03:27:15.000Z</updated>
+        <content type="html"><![CDATA[<p>对于一款浏览器而言，不装扩展，就好比手机不安装应用一般。（以Chrome举例）</p>
+<h2 id="在线安装">在线安装</h2>
+<p>因为油猴是附属于Google上的，所以首先必须解决 Google的上网问题；目前我找到了两种解决方式：</p>
+<blockquote>
+<p>1、Kx上网</p>
+<p>2、<a href="https://mp.weixin.qq.com/s/SA9EWRG4ylM39w6keG272w">谷歌访问助手</a></p>
+</blockquote>
+<p>其实我个人偏向于第二种，只需简单的设置一下就能使用，支持谷歌搜索、GMAIL和应用商店访问，一劳永逸。能访问商店，那自然可以直接在商店搜索<a href="https://chrome.google.com/webstore/search/Tampermonkey?hl=zh-CN">tampermonkey</a>，</p>
+<figure data-type="image" tabindex="1"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C1.png" alt="" loading="lazy"></figure>
+<h2 id="离线安装">离线安装</h2>
+<p>如果嫌麻烦，不想安装谷歌访问助手的话，我也给大家提供有<a href="https://www.lanzous.com/i9lo6lg">离线安装包</a>，</p>
+<p><strong>离线安装方法：</strong></p>
+<p>下载好安装包后，在浏览器中选择【更多工具】——【扩展程序】或者<a href="chrome://extensions/">直接点击</a>，进入扩展程序界面，将【开发者模式】打开，然后将CRX文件拖动到扩展程序界面进行安装。</p>
+<figure data-type="image" tabindex="2"><img src="D:%5C%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90%5C%E8%A7%86%E5%B1%8F%E5%BD%95%E5%88%B6%5C%E6%B2%B9%E7%8C%B4.gif" alt="" loading="lazy"></figure>
+<p>至此油猴即安装完成。</p>
+<h3 id="那么如何使用呢">那么如何使用呢？</h3>
+<p>点击【获取新脚本】</p>
+<figure data-type="image" tabindex="3"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C%E6%B2%B9%E7%8C%B42.png" alt="" loading="lazy"></figure>
+<p>进入这个界面，选择一个插件提供平台，我比较倾向于这一个：<a href="https://greasyfork.org/zh-CN">Greasy Fork</a>在里面搜索你想要的插件，比如刷网课，VIP影视等等。</p>
+<figure data-type="image" tabindex="4"><img src="D:%5Cqq%E6%96%87%E4%BB%B6%5Cyyb%5C%E6%B2%B9%E7%8C%B4%E4%BD%BF%E7%94%A8%5C%E6%B2%B9%E7%8C%B44.png" alt="" loading="lazy"></figure>
+<p>希望你能看懂  我的这篇说明文档。看不懂，也别来问我了，真的是保姆教程了。</p>
 ]]></content>
     </entry>
 </feed>
