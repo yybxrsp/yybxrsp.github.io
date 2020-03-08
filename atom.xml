@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yybxrsp.github.io/</id>
     <title>相逢</title>
-    <updated>2020-03-08T01:41:51.842Z</updated>
+    <updated>2020-03-08T01:48:33.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yybxrsp.github.io/"/>
     <link rel="self" href="https://yybxrsp.github.io/atom.xml"/>
@@ -11,35 +11,87 @@
     <icon>https://yybxrsp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 相逢</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[关于翻译那些事]]></title>
         <id>https://yybxrsp.github.io/post/hello-gridea/</id>
         <link href="https://yybxrsp.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>本文将我认为比较好用的翻译方法进行了排序，带有主观因素。</p>
+<p>但正所谓：横看成岭侧成峰,远近高低各不同。</p>
+<p>所以若有失言，切莫口诛笔伐。</p>
+<p>若有其他你认为更好的，可同我交流交流。</p>
+<p>小子感激不尽！！！</p>
+<p>至于人工翻译的技巧，网上也是一搜一大堆，且我只做软件和平台方面的分享，技巧就就不分享了，说白了有点偷懒的意思。</p>
+<p>导读</p>
+<p>1、发文原因：应群员要求。</p>
+<p>2、目的</p>
+<p>使一切能在此篇文中感受到帮助之人，能更好的解决英文阅读障碍、增强学习能力、帮助论文答辩者完成毕业设计等。</p>
+<p>3、面临问题</p>
+<p>市面翻译在线平台和软件杂乱且众多，所以有所遗漏还请见谅。</p>
+<p>1、沙拉查词</p>
+<p>Happy Halloween</p>
+<p>简介：这是一款浏览器插件。</p>
+<p>包含划词翻译、网页翻译、PDF查阅、生词管理等</p>
+<p>总结来说，这就是一款管家式的插件，且UI设计好</p>
+<p>安装</p>
+<p>1、于各大浏览器应用商店添加扩展，若是谷歌浏览器，使用请参看文章【如何使用谷歌浏览器】</p>
+<p>2、【储物站】——【插件】目录下查找</p>
+<p>3、微信公众号回复：20201</p>
+<p>使用</p>
+<p>基础使用：</p>
+<p>用鼠标将目标词句选中，便会在目标右上方蹦出一个窗口。</p>
+<p>弹出的翻译框中，点击如图所示，可进入设置界面</p>
+<p>进入设置界面后，可将“扇贝单词”开启，</p>
+<p>在使用过程中，点击❤，可添加生词至生词本中。</p>
+<p>因为我们已将生词导入扇贝单词中，那么我们在手机上也能时刻复习单词了。</p>
+<p>PDF阅读</p>
+<p>在网页上的任意位置单击【右键】，选择【沙拉查词】，再选择【在pdf阅读器中打开】进入以下界面，导入你想阅读的文档。</p>
+<p>网页翻译</p>
+<p>网页上单击鼠标右键，之后找到“沙拉查词”。选择对应的翻译引擎即可翻译。</p>
+<p>使用技巧：</p>
+<p>打开浏览器后连按3下“ctrl”（Windows）或“command”（Mac），便可打开翻译框。</p>
+<p>我们可以自行输入生词进行查阅，这个其实更像是一个小技巧。</p>
+<p>这个插件我觉得很有价值，诸君可一试。</p>
+<p>2、其他</p>
+<p>01</p>
+<p>谷歌翻译</p>
+<p>直接进入网页翻译：https://translate.google.cn/</p>
+<p>翻译后为网页格式，无法保留原格式。</p>
+<p>02</p>
+<p>pdfTranslator</p>
+<p>下载：</p>
+<p>1、公众号回复——20202</p>
+<p>2、【储物站】——【办公工具】——【文字处理】</p>
+<p>点击运行程序，进入这个界面</p>
+<p>点击选择要阅读的文档</p>
+<p>鼠标选择要翻译的文字即可，无需其他操作，译文随即显示。</p>
+<p>这个界面是不是同沙拉查词的PDF阅读类似啊，没错可以说是一模一祥的，不过这个译文是自动显示，无需那一下的点击操作。</p>
+<p>03</p>
+<p>word文档</p>
+<p>若文档为PDF格式，则在打开的时候选择【word】</p>
+<p>然后请耐心等待，你的耐心等待是值得的，因为你的PDF将转换为word格式，并且是可编辑的。</p>
+<p>当转换完成后，点击【审视】—【翻译】。</p>
+<p>即可联网上传云端翻译。</p>
+<p>不过还是不能保留格式，同谷歌翻译后的格式一样。</p>
+<p>04</p>
+<p>彩云小译</p>
+<p>地址：https://fanyi.caiyunapp.com/#/</p>
+<p>这个平台是极为不错的，文字翻译我没做测试，不过视频翻译响应很快，而且翻译的质量在我测试的其他视频翻译平台中算好的。</p>
+<p>若有视频翻译需求的朋友，现阶段我推荐这个，保不准以后有更好的。</p>
+<p>05</p>
+<p>翻译狗</p>
+<p>地址：http://www.fanyigou.net/tslg/share/96YF4F4N.htm</p>
+<p>至今我只在这个平台上能将全部的PDF格式的文档进行翻译，而且格式、图片皆保留原样，翻译质量没得说。</p>
+<p>但是他是收费的，很贵很贵的那种。</p>
+<p>他再便宜一点，我就用它了，不想折腾了。</p>
+<p>总结</p>
+<p>今天就先分享这么多，实在是因为市面上的翻译平台太多了。</p>
+<p>如果我的推荐帮助到了你，那么请于储物站中留言，告知于我，我将倍感荣幸，因为我感受到的是我的分享是有价值的，而不是文字和图片堆砌起来的废话。</p>
+<p>感谢您的留言！！！</p>
+<p>更多内容请访问</p>
+<p>储物站地址：http://xfyzyyb.cccpan.com/</p>
+<p>密码：yyb123456.</p>
+<p>若密码失效，请于公众号回复：解密</p>
 ]]></content>
     </entry>
 </feed>
