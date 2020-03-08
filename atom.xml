@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yybxrsp.github.io/</id>
     <title>相逢</title>
-    <updated>2020-03-08T02:07:42.507Z</updated>
+    <updated>2020-03-08T02:18:25.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yybxrsp.github.io/"/>
     <link rel="self" href="https://yybxrsp.github.io/atom.xml"/>
@@ -11,105 +11,13 @@
     <icon>https://yybxrsp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 相逢</rights>
     <entry>
-        <title type="html"><![CDATA[# 关于反洗]]></title>
-        <id>https://yybxrsp.github.io/post/guan-yu-fan-xi/</id>
-        <link href="https://yybxrsp.github.io/post/guan-yu-fan-xi/">
+        <title type="html"><![CDATA[这样]]></title>
+        <id>https://yybxrsp.github.io/post/zhe-yang/</id>
+        <link href="https://yybxrsp.github.io/post/zhe-yang/">
         </link>
-        <updated>2020-03-08T02:06:28.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>本文将我认为比较好用的翻译方法进行了排序，带有主观因素。</strong></p>
-<p><strong>但正所谓：横看成岭侧成峰,远近高低各不同。</strong></p>
-<p><strong>所以若有失言，切莫口诛笔伐。</strong></p>
-<p><strong>若有其他你认为更好的，可同我交流交流。</strong></p>
-<p><strong>小子感激不尽！！！</strong></p>
-<p><strong>至于人工翻译的技巧，网上也是一搜一大堆，且我只做软件和平台方面的分享，技巧就就不分享了，说白了有点偷懒的意思。</strong></p>
-<p>导读</p>
-<p>1、发文原因：应群员要求。</p>
-<figure data-type="image" tabindex="1"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJN3kCiazbn8MjbRrhVmZ4mHFqial6HzWD4Fm96wAY1Q6RYvBaqrM2ovkCg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>2、目的</p>
-<p>使一切能在此篇文中感受到帮助之人，能更好的解决英文阅读障碍、增强学习能力、帮助论文答辩者完成毕业设计等。</p>
-<p>3、面临问题</p>
-<p>市面翻译在线平台和软件杂乱且众多，所以有所遗漏还请见谅。</p>
-<p><strong>1、沙拉查词</strong></p>
-<p><em>Happy Halloween</em></p>
-<p>简介：这是一款浏览器插件。</p>
-<p>包含划词翻译、网页翻译、PDF查阅、生词管理等</p>
-<p>总结来说，这就是一款管家式的插件，且UI设计好</p>
-<p><strong>安装</strong></p>
-<p>1、于各大浏览器应用商店添加扩展，若是谷歌浏览器，使用请参看文章【<a href="http://mp.weixin.qq.com/s?__biz=MzI2NjQ4OTI5Ng==&amp;mid=2247483779&amp;idx=1&amp;sn=4bc8f99d0fd3456c987efe0d8a6f1f42&amp;chksm=ea8c1d3cddfb942ac292f5673a36c521b694ac5f9eb19f7f64f69f46eb24325e9022e99e3f94&amp;scene=21#wechat_redirect">如何使用谷歌浏览器</a>】</p>
-<p>2、【储物站】——【插件】目录下查找</p>
-<p>3、微信公众号回复：20201</p>
-<figure data-type="image" tabindex="2"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNKE30hialGMYfQhFP5xADxfvgogHC0bw6XunmR1iaPVPjDZknicuK3ZlLg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>使用</p>
-<p>基础使用：</p>
-<p>用鼠标将目标词句选中，便会在目标右上方蹦出一个窗口。</p>
-<p>弹出的翻译框中，点击如图所示，可进入设置界面</p>
-<figure data-type="image" tabindex="3"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJN5rGfEC8zXxmibQhNxWVDiaqjC4mYk2vIaNkIonmI06ibXw8ZH0ZDERRyw/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>进入设置界面后，可将“扇贝单词”开启，</p>
-<figure data-type="image" tabindex="4"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNPqFAgLm0vfT2GPibxfe6ficLfvGfJibpS3gbfug2zHPHx2TxdjYYkD09Q/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>在使用过程中，点击❤，可添加生词至生词本中。</p>
-<figure data-type="image" tabindex="5"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNJDdOKOl8hxibQgnMeLxyCic4VJqgWuKHjSb3XAA4uW4pawmn2F53PuOg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>因为我们已将生词导入扇贝单词中，那么我们在手机上也能时刻复习单词了。</p>
-<p>PDF阅读</p>
-<p>在网页上的任意位置单击【右键】，选择【沙拉查词】，再选择【在pdf阅读器中打开】进入以下界面，导入你想阅读的文档。</p>
-<figure data-type="image" tabindex="6"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNias07QNx0AYG1Q6e3mkedvlnMK79HTXvdlVgpZHkCZh67EjhDeQZlDg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>网页翻译</p>
-<p>网页上单击鼠标右键，之后找到“沙拉查词”。选择对应的翻译引擎即可翻译。</p>
-<figure data-type="image" tabindex="7"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNcEo8icLvJYj6gH30xSibufT5lDYiaH0AOjVqL97aHia8VXnTJicTKpnkt7g/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>使用技巧：</p>
-<p>打开浏览器后连按3下“ctrl”（Windows）或“command”（Mac），便可打开翻译框。</p>
-<p>我们可以自行输入生词进行查阅，这个其实更像是一个小技巧。</p>
-<figure data-type="image" tabindex="8"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJN763c2OcZ2qoCUialZ18rh3ymibcM6v9XC69p67ZcygXsTeicklNk2NPicQ/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>这个插件我觉得很有价值，诸君可一试。</p>
-<p>2、其他</p>
-<p><em><strong>01</strong></em></p>
-<p><strong>谷歌翻译</strong></p>
-<p>直接进入网页翻译：https://translate.google.cn/</p>
-<figure data-type="image" tabindex="9"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNfF51kqrWqGNbkeZBYgdPWrhLV54yOYcf0GZ2FFI3BGazicvhkia52y5Q/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>翻译后为网页格式，无法保留原格式。</p>
-<figure data-type="image" tabindex="10"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNhU6vztaI0xIiaelNa63WWibErSUIJqLqDNOiawm4pq822MzKSOLWVwKhg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p><em><strong>02</strong></em></p>
-<p><strong>pdfTranslator</strong></p>
-<p>下载：</p>
-<p>1、公众号回复——20202</p>
-<p>2、【储物站】——【办公工具】——【文字处理】</p>
-<p>点击运行程序，进入这个界面</p>
-<figure data-type="image" tabindex="11"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNVDOxJMKZVYtVrokFIxqzcCaUHbfniaWe7mWxxSL8zJ75ibNyaKTBic1Og/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>点击选择要阅读的文档</p>
-<figure data-type="image" tabindex="12"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNoNs7mrpnbLRYlML92uLc8lrwE2Qg3n2CFMfJ93fTrUZIXuCstg3SgQ/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>鼠标选择要翻译的文字即可，无需其他操作，译文随即显示。</p>
-<figure data-type="image" tabindex="13"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNIrlXc1Oy6ME2ZXSnoznqdfibBZbgHeSSEJeXBVUb233e7b1S7kX4ibmg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>这个界面是不是同沙拉查词的PDF阅读类似啊，没错可以说是一模一祥的，不过这个译文是自动显示，无需那一下的点击操作。</p>
-<p><em><strong>03</strong></em></p>
-<p><strong>word文档</strong></p>
-<p>若文档为PDF格式，则在打开的时候选择【word】</p>
-<p>然后请耐心等待，你的耐心等待是值得的，因为你的PDF将转换为word格式，并且是可编辑的。</p>
-<figure data-type="image" tabindex="14"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNicDIdiaxt6uvcl3mfYLo64MFrzJkJgKJmXKYMhTOJjAuqWBibiaicQyKPIA/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>当转换完成后，点击【审视】—【翻译】。</p>
-<p>即可联网上传云端翻译。</p>
-<figure data-type="image" tabindex="15"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNEbrlO0mlv58xdRfgF9JwCSfoJJarfone3SjlEu2CgIh9OqWmM5BNzw/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>不过还是不能保留格式，同谷歌翻译后的格式一样。</p>
-<p><em><strong>04</strong></em></p>
-<p><strong>彩云小译</strong></p>
-<p>地址：https://fanyi.caiyunapp.com/#/</p>
-<figure data-type="image" tabindex="16"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJN5Sh801MvBkFXK2zx1KVWKXoC6nvdFEveNcibpyF7a4uRgURJIKArwsA/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>这个平台是极为不错的，文字翻译我没做测试，不过视频翻译响应很快，而且翻译的质量在我测试的其他视频翻译平台中算好的。</p>
-<figure data-type="image" tabindex="17"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJNaIY2Zicuicib8fYwZEMy3S2A5CGnFna7voVFYNPNicLGxJbCMVdbdiantcg/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p>若有视频翻译需求的朋友，现阶段我推荐这个，保不准以后有更好的。</p>
-<p><em><strong>05</strong></em></p>
-<p><strong>翻译狗</strong></p>
-<p>地址：http://www.fanyigou.net/tslg/share/96YF4F4N.htm</p>
-<p>至今我只在这个平台上能将全部的PDF格式的文档进行翻译，而且格式、图片皆保留原样，翻译质量没得说。</p>
-<p>但是他是收费的，很贵很贵的那种。</p>
-<p>他再便宜一点，我就用它了，不想折腾了。</p>
-<figure data-type="image" tabindex="18"><img src="https://mmbiz.qpic.cn/mmbiz_png/VwrQ7DT4cdKX6T8IXA3yCuSiadUCibVXJN1Pq15yxcAOCIMicSBiaQtMH9S3dHjjwfQhCrU6YnshLcfW2ZYMbKWzlw/640?wx_fmt=png" alt="img" loading="lazy"></figure>
-<p><strong>总结</strong></p>
-<p>今天就先分享这么多，实在是因为市面上的翻译平台太多了。</p>
-<p>如果我的推荐帮助到了你，那么请于储物站中留言，告知于我，我将倍感荣幸，因为我感受到的是我的分享是有价值的，而不是文字和图片堆砌起来的废话。</p>
-<p>感谢您的留言！！！</p>
-<p>更多内容请访问</p>
-<p>储物站地址：http://xfyzyyb.cccpan.com/</p>
-<p>密码：yyb123456.</p>
-<p>若密码失效，请于公众号回复：解密</p>
+        <updated>2020-03-08T02:17:12.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="关于油猴插件的使用">关于油猴插件的使用</h1>
+<p><a href="https://www.bilibili.com/account/history">真的是这样</a></p>
 ]]></content>
     </entry>
     <entry>
