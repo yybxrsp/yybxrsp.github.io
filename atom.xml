@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yybxrsp.github.io/</id>
     <title>相逢</title>
-    <updated>2020-03-18T06:15:19.619Z</updated>
+    <updated>2020-03-18T06:38:06.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yybxrsp.github.io/"/>
     <link rel="self" href="https://yybxrsp.github.io/atom.xml"/>
@@ -37,7 +37,7 @@
         <link href="https://yybxrsp.github.io/post/ru-he-shi-yong-you-hou-kuo-zhan/">
         </link>
         <updated>2020-03-08T03:27:15.000Z</updated>
-        <content type="html"><![CDATA[<p>对于一款浏览器而言，不装扩展，就好比手机不安装应用一般。（以Chrome举例）</p>
+        <content type="html"><![CDATA[<p>对于一款浏览器而言，<strong>不装扩展，就好比手机不安装应用一般</strong>。（以Chrome举例）</p>
 <h2 id="在线安装">在线安装</h2>
 <p>因为油猴是附属于Google上的，所以首先必须解决 Google的上网问题；目前我找到了两种解决方式：</p>
 <blockquote>
