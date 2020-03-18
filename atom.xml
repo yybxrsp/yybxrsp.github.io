@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yybxrsp.github.io/</id>
     <title>相逢</title>
-    <updated>2020-03-18T06:42:55.561Z</updated>
+    <updated>2020-03-18T06:49:14.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yybxrsp.github.io/"/>
     <link rel="self" href="https://yybxrsp.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://yybxrsp.github.io/post/sql-server-2019-po-jie-shuo-ming/">
         </link>
         <updated>2020-03-18T05:38:36.000Z</updated>
-        <content type="html"><![CDATA[<p>dbForge Studio 2019 for SQL Server是针对SQL Server数据库而开发的一款强大的集成开发环境，主要用于SQL Server管理，管理，开发，数据报告和分析。可以帮助SQL开发人员管理数据库，在流行的源代码控制系统中进行版本控制的数据库更改，加快日常任务的速度以及进行复杂的数据库更改。而5.8新版本对数据和架构比较功能进行了重大改进，包括重新设计了差异表示形式，并且提供了前所未有的便捷，有效的管理和部署数据和架构差异。<br>
+        <content type="html"><![CDATA[<p>dbForge Studio 2019 for SQL Server是针对SQL Server数据库而开发的一款强大的集成开发环境，主要用于SQL Server管理，管理，开发，数据报告和分析。可以帮助SQL开发人员管理数据库，在流行的源代码控制系统中进行版本控制的数据库更改，<em>加快日常任务的速度以及进行复杂的数据库更改。而5.8新版本对数据和架构比较功能进行了重大改进，包括重新设计了差异表示形式，并且提供了前所未有的便捷，有效的管理和部署数据和架构差异。</em><br>
 1、下载解压安装包<br>
 <img src="https://yybxrsp.github.io//post-images/1584510488507.png" alt="" loading="lazy"><br>
 2、双击文件【dbforgesql58ent.exe】安装原程序<br>
